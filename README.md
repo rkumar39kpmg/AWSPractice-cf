@@ -1,2 +1,0 @@
-# AWSPractice-cf
-AWSPractice
