@@ -15,7 +15,6 @@ Resources:
         Description: Creating AWS S3 bucket from CloudFormation
         Properties: {}
             BucketName: S3Bucket_Test
-            AccessControl: Private
         
         VersioningConfiguration:
             Status: Enabled
